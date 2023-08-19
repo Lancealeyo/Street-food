@@ -18,7 +18,7 @@ The technologies used to create the street food website were:
 ## DEMO(SCREENSHOTS)
 
 ### Demo
-Attached is a working live demo:
+Attached is a working live demo: https://lancealeyo.github.io/Street-food/
 
 ### Screenshots
 | Eat Together | Burger|
@@ -27,7 +27,7 @@ Attached is a working live demo:
 
 ## AUTHOR INFO
 
-This website was built by [Aleyo Lanceal](https://lancealeyo.github.io/Street-food/)
+This website was built by [Aleyo Lanceal](https://github.com/Lancealeyo/Street-food.git)
 
 ## ISSUES
 
