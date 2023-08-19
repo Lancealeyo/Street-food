@@ -13,12 +13,17 @@ The technologies used to create the street food website were:
 1. HTML
 2. CSS
 
-## SETUP INSTRUCTIONS
+## PRE-REQUISITIES
+
+For this application to run you will need:
+
+1. Install `Github` on **Windows**/ use `Linux`.
+2. 1GB RAM
 
 ## DEMO(SCREENSHOTS)
 
 ### Demo
-Attached is a working live demo: https://lancealeyo.github.io/Street-food/
+Attached is a working live demo: ```https://lancealeyo.github.io/Street-food/```
 
 ### Screenshots
 | Eat Together | Burger|
@@ -37,5 +42,5 @@ There were no known issues encountered while building.
 
 This website adheres to the terms of MIT license.
 
-Copyright (c) (2023) (ALEYO LANCEAL)
+Copyright (c) (2023) (Aleyo Lanceal)
 
