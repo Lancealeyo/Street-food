@@ -1,0 +1,164 @@
+@media  screen and (max-width-500px){
+    *{
+        border-style: none;
+    }
+    div{
+        height: 100%;
+        width: 100%;
+    }
+}
+*{
+    border-style: none;
+    font-family: 'poppins', sans-serif;
+}
+nav>ul>li{
+    text-align: left;
+    display: inline-block;
+    padding-left: 90px;
+    padding-top: 40px;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav>ul>li:first-child{
+    padding: 0px;
+}
+.street{
+    background-color:  #e4e4f5;
+    padding-left: 50px;
+}
+.i{
+    float: right;
+}
+.ellipse{
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+    background-color: #649549;
+}
+.explore{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: rgb(231, 240, 243);
+}
+#explore{
+    text-align: center;
+    padding-top: 30px;
+}
+.row{
+    align-items: center;
+    float: left;
+}
+.column{
+    float: left;
+}
+.s{
+    color: #6CB840;
+}
+.f{
+    color: #EAAB1B;
+}
+.hot{
+    background-color: #C9ECB5;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 1100px;
+}
+#hot{
+    text-align: center;
+    padding-top: 30px;
+}
+.deals{
+    float: right;
+}
+.likemeat{
+    position: absolute;
+}
+.parent{
+    position: relative;
+}
+.p{
+    padding-right: 100px;
+    text-align: center;
+    padding-left: 10px;
+}
+.b{
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+.burger{
+    padding-left: 30px;
+}
+.contact{
+    text-align: center;
+    background-color: #FFD77C;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#contact{
+    padding-top: 30px;
+}
+.eat{
+    text-align: center;
+    float: right;
+    padding-top: 200px;
+}
+.img{
+    float: left;
+}
+h2{
+    text-align: left;
+}
+button{
+    color: white;
+    border-radius: 20px;
+    background-color: #6CB840;
+    border-style: none;
+    width: 120px;
+    height: 35px;
+    padding-top: 3px;
+    margin-bottom: 50px;
+}
+.email{
+    width: 25%;
+    text-align: left;
+    background-color: white;
+    color: black;
+}
+.send{
+    width: 120px;
+    height: 35px;
+    padding-top: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-left: 45%;
+    margin-bottom: 80px;
+    margin-top: 5px;
+}
+#send{
+    width: 50px;
+    height: 20px;
+    border-radius: 0px;
+    margin-left: 1300px;
+}
+footer{
+    background-color: #C9ECB5;
+    margin-top: 50px;
+    margin-left: 40px;
+    margin-right: 60px;
+}
+.sunday{
+    float: left;
+    margin-left: 20px;
+}
+.chestnut{
+    float: left;
+    padding-left: 100px;
+}
+.follow{
+    float: right;
+    padding-right: 100px;
+}
