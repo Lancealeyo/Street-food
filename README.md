@@ -27,7 +27,7 @@ Attached is a working live demo:
 
 ## AUTHOR INFO
 
-This website was built by [Aleyo Lanceal]()
+This website was built by [Aleyo Lanceal](https://lancealeyo.github.io/Street-food/)
 
 ## ISSUES
 
