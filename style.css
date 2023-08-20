@@ -90,9 +90,11 @@ nav>ul>li:first-child{
 .b{
     padding-left: 50px;
     padding-bottom: 20px;
+    text-align: center;
 }
 .burger{
     padding-left: 30px;
+    text-align: center;
 }
 .contact{
     text-align: center;
