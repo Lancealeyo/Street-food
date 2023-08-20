@@ -49,11 +49,13 @@ nav>ul>li:first-child{
     padding-top: 30px;
 }
 .row{
-    align-items: center;
-    float: left;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 4px;
 }
 .column{
-    float: left;
+    flex: 50px;
+    padding: 0 4px;
 }
 .s{
     color: #6CB840;
