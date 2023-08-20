@@ -38,6 +38,12 @@ This website was built by [Aleyo Lanceal](https://github.com/Lancealeyo/Street-f
 
 There were no known issues encountered while building.
 
+## Support and contact details
+
+In case of issues, ideas or making contributions contact:
+
+[Aleyo Lanceal](https://github.com/Lancealeyo/Street-food.git)
+
 ## LICENSE
 
 This website adheres to the terms of MIT license.
