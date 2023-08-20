@@ -143,6 +143,11 @@ button{
     border-radius: 0px;
     margin-left: 1300px;
 }
+.icon{
+    border-radius: 0px;
+    margin-left: 1300px;
+    border-style: none;
+}
 footer{
     background-color: #C9ECB5;
     margin-top: 50px;
