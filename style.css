@@ -3,6 +3,10 @@
     font-family: 'poppins', sans-serif;
     scroll-behavior: smooth;
 }
+.streetfood{
+    font-weight: bolder;
+    font-size: xx-large
+}
 nav>ul>li{
     text-align: left;
     display: inline-block;
