@@ -1,11 +1,7 @@
-@media only screen and (max-width :600px){
-    body{
-        max-width: 600px;
-    }
- }
 *{
     border-style: none;
     font-family: 'poppins', sans-serif;
+    scroll-behavior: smooth;
 }
 nav>ul>li{
     text-align: left;
@@ -43,14 +39,13 @@ nav>ul>li:first-child{
     text-align: center;
     padding-top: 30px;
 }
-.row{
+.explore1{
     display: flex;
-    flex-wrap: wrap;
-    padding: 0 4px;
 }
-.column{
-    flex: 50px;
-    padding: 0 4px;
+.explore2{
+    display: inline-block;
+    flex-direction: row;
+    margin-left: -100px;
 }
 .s{
     color: #6CB840;
@@ -62,23 +57,31 @@ nav>ul>li:first-child{
     background-color: #C9ECB5;
     margin-left: 50px;
     margin-right: 50px;
-    height: 1100px;
+    height: 900px;
 }
 #hot{
     text-align: center;
     padding-top: 30px;
 }
 .deals{
-    float: right;
+    padding-left: 900px;
+    margin-top: -400px;
 }
 .likemeat{
-    position: absolute;
+    display: flex;
+    padding: 0;
 }
-.parent{
-    position: relative;
+.k{
+    display: flex;
+    margin-top: -50px;
+}
+.k1{
+    margin-top: 25%;
+    margin-left: -350px;
+    margin-bottom: -50px;
 }
 .p{
-    padding-right: 100px;
+    padding-right: 150px;
     text-align: center;
     padding-left: 10px;
 }
@@ -160,9 +163,13 @@ footer{
 }
 .chestnut{
     float: left;
-    padding-left: 100px;
+    padding-left: 30px;
+    margin-top: 50px;
+    border-left: #649549;
+    border-left-style: dashed;
 }
 .follow{
     float: right;
     padding-right: 100px;
+    margin-top: 50px;
 }
